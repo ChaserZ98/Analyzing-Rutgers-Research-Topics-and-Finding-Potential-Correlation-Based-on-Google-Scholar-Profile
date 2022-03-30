@@ -248,3 +248,12 @@ fabric.properties
 # ignore files in project
 *.zip
 *.exe
+*.docx
+*.pptx
+report/Project Presentation.pdf
+data&model/
+/*.py
+/*.txt
+/*.png
+/*.ipynb
+/*.pdf
