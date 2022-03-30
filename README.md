@@ -9,7 +9,7 @@
 <div align="center">
   <h1 align="center">Analyzing Rutgers Research Topics and Finding Potential Correlation Based on Google Scholar Profile</h1>
   <p align="center">
-    <a href="https://GitHub.com/ChaserZ98/Analyzing-Rutgers-Research-Topics-and-Finding-Potential-Correlation-Based-on-Google-Scholar-Profile"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ChaserZ98/Analyzing-Rutgers-Research-Topics-and-Finding-Potential-Correlation-Based-on-Google-Scholar-Profile/blob/main/report/CS439%20Project%20Final%20Report.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://GitHub.com/ChaserZ98/Analyzing-Rutgers-Research-Topics-and-Finding-Potential-Correlation-Based-on-Google-Scholar-Profile">View Demo</a>
